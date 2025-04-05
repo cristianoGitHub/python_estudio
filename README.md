@@ -8,7 +8,7 @@ Este repositório contém minhas soluções para os exercícios propostos no liv
 
 ## Estrutura do Repositório
 
-Os exercícios estão organizados pela sequência exata dos capítulos do livro, cada um com seu respectivo diretório. Assim, cada diretório contém os arquivos correspondentes aos exercícios do capítulo respectivo.
+Os exercícios estão organizados pela sequência exata dos capítulos do livro. Assim, cada arquivo corresponde aos exercícios do capítulo respectivo.
 
 ## Sobre o Livro
 
