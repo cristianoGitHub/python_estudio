@@ -4,6 +4,8 @@
 
 Este repositório contém minhas soluções para os exercícios propostos no livro [*Python Crash Course*](https://nostarch.com/python-crash-course-3rd-edition) de Eric Matthes.
 
+![Capa do Livro](https://ehmatthes.github.io/pcc_3e/images/pcc_3e_cover-170px.png)
+
 ## Estrutura do Repositório
 
 Os exercícios estão organizados pela sequência exata dos capítulos do livro, cada um com seu respectivo diretório. Assim, cada diretório contém os arquivos correspondentes aos exercícios do capítulo respectivo.
