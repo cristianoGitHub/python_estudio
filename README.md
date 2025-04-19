@@ -18,7 +18,7 @@ Os exercícios estão organizados pela sequência exata dos capítulos do livro.
 
 ### Parte I – Noções Básica
 
-- [ ] Capítulo 1 – Primeiros Passos
+- [X] Capítulo 1 – Primeiros Passos
 - [ ] Capítulo 2 – Variáveis e Tipos de Dados Simples
 - [ ] Capítulo 3 – Introdução às Listas
 - [ ] Capítulo 4 – Trabalhando com Listas
