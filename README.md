@@ -20,4 +20,4 @@ Para mais informações e recursos adicionais relacionados ao livro, visite o [r
 
 ## ⚠️ Observações
 
-Este repositório é mantido com o objetivo de praticar e consolidar os conhecimentos adquiridos através do livro. Feedbacks e sugestões são bem-vindos!
+Este repositório é mantido com o objetivo de praticar e consolidar os meus conhecimentos adquiridos através do livro. Feedbacks e sugestões são bem-vindos!
