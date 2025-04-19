@@ -1,6 +1,6 @@
 # python_estudio
 
-# 📘 Exercícios do Livro *Python Crash Course* de Eric Matthes
+# 📘 Exercícios e Projetos do Livro *Python Crash Course* de Eric Matthes
 
 Este repositório contém minhas soluções para os exercícios propostos no livro [*Python Crash Course*](https://nostarch.com/python-crash-course-3rd-edition) de Eric Matthes.
 
